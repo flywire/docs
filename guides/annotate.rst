@@ -138,17 +138,6 @@ Adding text to a drawing provides addition information; build notes, drawing tit
     :scale: 50
     :alt: MText (multi-line) dialogue
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
 Both tools proved several options for the appearance and placement of text, however a couple are unique to the single-line **Text** tool, as shown below:
 
 .. table::
