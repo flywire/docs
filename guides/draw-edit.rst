@@ -305,7 +305,7 @@ The **Proprieties** tool also allows the *geometry* of an entity to be changed. 
 .. figure:: /images/propLine.png
     :width: 550px
     :height: 291px
-    :align: left
+    :align: center
     :scale: 50
     :alt: Properties - Line
 
@@ -314,7 +314,7 @@ The **Proprieties** tool also allows the *geometry* of an entity to be changed. 
 .. figure:: /images/propMText.png
     :width: 693px
     :height: 478px
-    :align: right
+    :align: center
     :scale: 50
     :alt: Properties - MText
 

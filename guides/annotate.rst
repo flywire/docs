@@ -41,7 +41,7 @@ A dimension consists of several parts:
 .. figure:: /images/dimnDesc.png
     :width: 1441px
     :height: 504px
-    :align: right
+    :align: center
     :scale: 50
     :alt: Dimension parts
 
@@ -127,14 +127,14 @@ Adding text to a drawing provides addition information; build notes, drawing tit
 .. figure:: /images/textText.png
     :width: 557px
     :height: 462px
-    :align: left
+    :align: center
     :scale: 50
     :alt: Text dialogue
 
 .. figure:: /images/textMText.png
     :width: 621px
     :height: 475px
-    :align: right
+    :align: center
     :scale: 50
     :alt: MText (multi-line) dialogue
 
