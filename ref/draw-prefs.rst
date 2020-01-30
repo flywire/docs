@@ -21,7 +21,7 @@ Paper
 .. figure:: /images/drawPref1.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Drawing Preferences - Paper
 
@@ -42,7 +42,7 @@ Units
 .. figure:: /images/drawPref2.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Drawing Preferences - Units
 
@@ -94,7 +94,7 @@ Grid
 .. figure:: /images/drawPref3.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Drawing Preferences - Grid
 
@@ -196,7 +196,7 @@ Splines
 .. figure:: /images/drawPref5.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Drawing Preferences - Splines
 

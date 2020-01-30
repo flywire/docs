@@ -19,7 +19,7 @@ To create, modify, or delete a custom menu, select **Widgets -> Menu Creator**
 .. figure:: /images/menuCreator.png
     :width: 728px
     :height: 404px
-    :align: right
+    :align: center
     :scale: 67
     :alt: LibreCAD Menu Creator
 
@@ -48,7 +48,7 @@ Custom menus can also be assigned to a keyboard short-cut to make them easily ac
 .. figure:: /images/menuAssign.png
     :width: 208px
     :height: 188px
-    :align: right
+    :align: center
     :scale: 100
     :alt: LibreCAD Menu Assigner
 
@@ -75,7 +75,7 @@ To create a custom toolbars, select **Widgets -> Toolbar Creator**
 .. figure:: /images/toolbarCreator.png
     :width: 728px
     :height: 404px
-    :align: right
+    :align: center
     :scale: 67
     :alt: LibreCAD Toolbar Creator
 

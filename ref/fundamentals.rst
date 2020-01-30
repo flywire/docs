@@ -41,7 +41,7 @@ Cartesian
 .. figure:: /images/byCartesian.png
     :width: 800px
     :height: 660px
-    :align: right
+    :align: center
     :scale: 45
     :alt: Cartesian Coordinates
 
@@ -54,7 +54,7 @@ Polar
 .. figure:: /images/byPolar.png
     :width: 800px
     :height: 660px
-    :align: right
+    :align: center
     :scale: 45
     :alt: Polar Coordinates
 
@@ -91,7 +91,7 @@ The last coordinate defined when creating an entity becomes a temporary referenc
 .. figure:: /images/byAbsCoorRelCoor.png
     :width: 800px
     :height: 660px
-    :align: right
+    :align: center
     :scale: 45
     :alt: Absolute & Relative Cartesian Coordinates
 
@@ -107,7 +107,7 @@ When using cartesian coordinates for example, to set a 65 units above and 75 uni
 .. figure:: /images/byAbsCoorRelPolar.png
     :width: 800px
     :height: 660px
-    :align: right
+    :align: center
     :scale: 45
     :alt: Absolute Cartesian & Relative Polar Coordinates
 
@@ -131,7 +131,7 @@ Angles in LibreCAD
 .. figure:: /images/angles.png
     :width: 800px
     :height: 660px
-    :align: right
+    :align: center
     :scale: 50
     :alt: Polar Coordinates
 
@@ -356,7 +356,7 @@ Selected entities display “handles”.  Handles allow the entities to be manip
 .. figure:: /images/handleEg.png
     :width: 1364px
     :height: 547px
-    :align: right
+    :align: center
     :scale: 50
     :alt: Entity Handles
 

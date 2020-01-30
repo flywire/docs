@@ -18,7 +18,7 @@ Dock widgets serve two purposes; they provide alternative method to access drawi
     :figwidth: 200px
     :width: 172px
     :height: 172px
-    :align: right
+    :align: center
     :scale: 100
     :alt: Lines Dock
 
@@ -67,7 +67,7 @@ Block List Dock
 .. figure:: /images/dock-blockList01.png
     :width: 272px
     :height: 590px
-    :align: right
+    :align: center
     :scale: 67
     :alt: Block List Dock
 
@@ -105,7 +105,7 @@ Command Line Dock
 .. figure:: /images/dock-cmdLine.png  
     :width: 544px
     :height: 227px
-    :align: right
+    :align: center
     :scale: 67
     :alt: Command Line Dock
 
@@ -126,7 +126,7 @@ Layer List Dock
 .. figure:: /images/dock-layerList01.png
     :width: 270px
     :height: 590px
-    :align: right
+    :align: center
     :scale: 67
     :alt: Layer List Dock
 
@@ -154,7 +154,7 @@ The Layer List Dock provides the functions to manage layers and a list of layers
     :width: 251px
     :height: 215px
     :scale: 100
-    :align: left
+    :align: center
     :alt: LibreCAD Layers Attributes
 
 |
@@ -212,7 +212,7 @@ Icons to the left of each layer act on the layers individually.  The layer opera
 .. figure:: /images/dock-layerContextMenu.png
     :width: 219px
     :height: 186px
-    :align: right
+    :align: center
     :scale: 100
     :alt: Layer Context Menu
 
@@ -232,7 +232,7 @@ Library Browser Dock
 .. figure:: /images/dock-libraryBrowser01.png
     :width: 270px
     :height: 590px
-    :align: right
+    :align: center
     :scale: 67
     :alt: Library Browser Dock
 
@@ -256,7 +256,7 @@ Pen Wizard Dock
 .. figure:: /images/dock-penWizard01.png
     :width: 272px
     :height: 590px
-    :align: right
+    :align: center
     :scale: 67
     :alt: Pen Wizard Dock
 
