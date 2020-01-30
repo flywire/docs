@@ -148,8 +148,6 @@ The Layer List Dock provides the functions to manage layers and a list of layers
 
 .. See icon mapping a eof
 
-|
-
 ..  figure:: /images/layerAttributes01.png
     :width: 251px
     :height: 215px
@@ -157,16 +155,7 @@ The Layer List Dock provides the functions to manage layers and a list of layers
     :align: center
     :alt: LibreCAD Layers Attributes
 
-|
-|
-|
-|
-|
-|
-|
-
 Clicking the *Attribute* icon allows users to change the attributes of all entities on the selected layer.  The attribute include:
-
 
 .. table::
     :widths: 25, 75
@@ -220,9 +209,6 @@ Right-clicking on a layer opens a popup menu that provides equivalent operations
 
 More details on creating and using :ref:`layers <su-layers>` can be found in the :ref:`Drawing Setup <drawing-setup>` section of the **User Guides**.
 
-|
-|
-
 
 .. _widget-libBrowser:
 
@@ -239,13 +225,6 @@ Library Browser Dock
 The Library Browser Dock shows blocks available from the defined libraries and allows users to insert blocks into the current drawing.  To insert a block, select a block from one of the categories by clicking on it, e.g. "d1" and click the "Insert" button.  Specify a reference point in the drawing window with a mouse click or by entering coordinates at the command prompt.  Once inserted into the drawing, the block is shown in the :ref:`Block List Dock <ugBlocksList>`.
 
 LibreCAD includes several libraries and additional libraries can be specified by defining a path to user libraries in the :ref:`Application Preferences <app-prefs>`, "Path" tab as shown in **Getting Started**.
-
-|
-|
-|
-|
-|
-|
 
 
 .. _widget-penWiz:

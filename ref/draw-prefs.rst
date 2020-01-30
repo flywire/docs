@@ -6,7 +6,8 @@
 Drawing Preferences
 ===================
 
-Drawing preferences have two purposes, they allow users to :
+**Drawing preferences have two purposes, they allow users to:**
+
     1. override the application defaults on a drawing by drawing basis.
     2. define specifics for the drawing's output, format and other drawing specific configuration.
 
@@ -49,8 +50,6 @@ Units
 The **Units** tab allows users to set the *Main drawing unit* to the preferred unit of measure.  The setting overrides the default set during LibreCAD's initial application :ref:`configuration <configure>`.  The same units of measures are as noted in the :ref:`appendix <measurements>` are available for the drawing's preferences.
 
 In addition, the Length and Angle formats and precision, as shown below, can be set to suit the type of drawing.
-
-|
 
 Length Format
 ~~~~~~~~~~~~~

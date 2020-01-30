@@ -60,14 +60,6 @@ Polar
 
 The *Polar* coordinate system uses one distance and one angle to locate a point in a drawing.  In LibreCAD the polar coordinates take the form *100 < 45*, indicating a line 100 units long and at an angle of 45 degrees as shown.
 
-|
-|
-|
-|
-|
-|
-|
-
 
 Defining Coordinate Locations
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -97,7 +89,6 @@ The last coordinate defined when creating an entity becomes a temporary referenc
 
 When using cartesian coordinates for example, to set a 65 units above and 75 units to the right of the previous point, use "@75,65".  In this example, if the previous point was set at 20 units and 45 vertically (20,45) from the origin (0,0), setting the next point @75,65 relative to 20,45, using @75,65 would result in a point at 100 units horizontally and 100 vertically (100,100 absolute).
 
-|
 
 .. note::
 
@@ -114,14 +105,6 @@ When using cartesian coordinates for example, to set a 65 units above and 75 uni
 
 As an example when using a polar coordinates, to draw a line 100mm and 45 degrees from the last point drawn at 25,45 (absolute cartesian coordinate) use "@100<45" (relative polar coordinate).
 
-|
-|
-|
-|
-|
-|
-|
-
 
 .. _angles: 
 
@@ -136,16 +119,6 @@ Angles in LibreCAD
     :alt: Polar Coordinates
 
 All angles in LibreCAD are measured in 360 degrees in an anti-clockwise direction beginning from 0 degrees (the 3 o'clock position). The *<* symbol is used toi designat e an angle whn using polar coordinates, e.g.50<45.
-
-|
-|
-|
-|
-|
-|
-|
-|
-
 
 
 .. _entities: 
