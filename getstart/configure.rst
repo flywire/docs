@@ -69,7 +69,7 @@ Appearance
 .. figure:: /images/appPref1.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Application Preferences - Appearance
 
@@ -88,7 +88,7 @@ Path
 .. figure:: /images/appPref2.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Application Window - Paths
 
@@ -106,7 +106,7 @@ Defaults
 .. figure:: /images/appPref3.png
     :width: 785px
     :height: 623px
-    :align: right
+    :align: center
     :scale: 50
     :alt: LibreCAD Application Window - Defaults
 
